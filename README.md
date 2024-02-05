@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ichicolco
 - 👀 I’m interested in Linux, BSD, virtualization.
-- 🌱 I’m currently learning PowerShell.
+- 🌱 I’m currently learning PowerShell and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
